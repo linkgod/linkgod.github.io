@@ -1,0 +1,28 @@
+markdown: rdiscount
+pygments: true
+permalink: none
+name: "[linkgod's note of life]"
+
+author: "linkgod"
+atom-baseurl: "http://www.linkgod.net"
+disqus: "linkgod"
+
+navigations:
+  - title: Archive
+    class: fa fa-list-ul
+    href: /archive.html
+  - title: Tags
+    class: fa fa-tags
+    href: /tags.html
+  - title: About
+    class: fa fa-user
+    href: /about.html
+  - title: Book list
+    class: fa fa-book
+    href: /book-list.html
+  - title: Links
+    class: fa fa-link
+    href: /links.html
+  - title: Subscribe
+    class: fa fa-rss
+    href: /atom.xml
