@@ -28,7 +28,7 @@ history.replaceState();
 
 ## history.pushState() and history.replaceState()
 
-因为XMLHttp的setRequestHeader()方法修改头，有些些头是无法修改的，其中包括referrer。(无法修改的头可以参考[http://www.linkgod.net/post/2012-12-17/40047787940](http://www.linkgod.net/post/2012-12-17/40047787940))
+因为XMLHttp的setRequestHeader()方法修改头，有些些头是无法修改的，其中包括referrer。(无法修改的头可以参考[http://www.linkgod.net/set-ajax-request-header.html](http://www.linkgod.net/set-ajax-request-header.html))
 
 可以使用 history.pushState() 会改变 referrer 的值，而在你调用方法后创建的 [XMLHttpRequest](https://developer.mozilla.org/zh-CN/docs/DOM/XMLHttpRequest) 对象会在 HTTP 请求头中使用这个值。referrer的值则是创建 [XMLHttpRequest](https://developer.mozilla.org/zh-CN/docs/DOM/XMLHttpRequest) 对象时所处的窗口的URL。
 
