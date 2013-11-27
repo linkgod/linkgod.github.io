@@ -11,6 +11,8 @@ layout: page
 * <a href="http://lenny.sinaapp.com/" target="_blank">lenny blog</a>
 * <a href="http://hack4money.org/" target="_blank">hack4money</a>
 * <a href="http://plusplus7.com/" target="_blank">plusplus7's blog</a>
+* <a href="http://ycong.org/" target="_blank">洋葱圈</a>
+* <a href="http://laterain.sinaapp.com/" target="_blank">Laterain's Blog</a>
 * <a href="http://tech.cuit.edu.cn/old_tech/" target="_blank">CUIT技术网</a>
 
 *# sort*
