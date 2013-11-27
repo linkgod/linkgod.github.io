@@ -10,9 +10,12 @@ OK Man -> linkgod
 >
 > [Syclover](http://weibo.com/sycloversyc) Member
 
-Activities in
+Activities In
 
 > [Zhihu](http://www.zhihu.com/people/linkgod)
 > [Weibo](http://weibo.com/linkgod)
 > [V2EX](http://v2ex.com/member/linkgod)
 > [Github](https://github.com/linkgod)
+
+Old Blog
+> [LinkGod \[S.Y.C\]](http://linkgod.diandian.com/)
