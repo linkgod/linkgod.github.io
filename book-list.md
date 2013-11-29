@@ -1,9 +1,20 @@
 ---
 layout: post
 title: 'Book list'
-date: 2012-10-17
+date: 2013-11-29
 ---
 
+* [鲜活的数据](http://book.douban.com/subject/19952397/)
+* [HTML5 Canvas核心技术](http://book.douban.com/subject/24533314/)
+* <strike>[AngularJS](http://book.douban.com/subject/20277919/)</strike>
+* <strike>基于MVC的JavaScript Web富应用开发</strike>
+* <strike>响应式Web设计:HTML5和CSS3实战</strike>
+* <strike>JavaScript模式</strike>
+* <strike>深入浅出CoffeeScript</strike>
+* <strike>Node.js开发指南</strike>
+* <strike>精通CSS:高级Web标准解决方案</strike>
+* <strike>程序员的职业素养</strike>
+* <strike>黑客与画家</strike>
 * <strike>HTML5高级程序设计  /Peter Lubbers, Brian Albers, Frank Salim</strike>
 * <strike>jQuery基础教程  /(美)  Jonathan Chaffer, Karl Swedberg著 李松峰, 卢玉平译</strike>
 * <strike>JavaScript艺术与科学  /(美) Cameron Adams... [等] 著 郑文涛译</strike>
