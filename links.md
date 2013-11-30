@@ -16,3 +16,11 @@ layout: page
 * <a href="http://tech.cuit.edu.cn/old_tech/" target="_blank">CUIT技术网</a>
 
 *# sort*
+
+---
+
+# My toys:
+
+* [simple-mobile-web](http://www.linkgod.net/simple-mobile-web)
+* [simple-pjax-demo](http://pjaxdemo.duapp.com)
+* [SHA-1](http://www.linkgod.net/SHA-1/)
