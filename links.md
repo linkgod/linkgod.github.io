@@ -19,8 +19,9 @@ layout: page
 
 ---
 
-# My toys:
+## My Projects:
 
-* [simple-mobile-web](http://www.linkgod.net/simple-mobile-web)
-* [simple-pjax-demo](http://pjaxdemo.duapp.com)
-* [SHA-1](http://www.linkgod.net/SHA-1/)
+* [marker](https://github.com/linkgod/marker)
+* [SHA-1](https://github.com/linkgod/SHA-1)
+* [simple-mobile-web](https://github.com/linkgod/simple-mobile-web)
+* [simple-pjax-demo](https://github.com/linkgod/simple-pjax-demo)
