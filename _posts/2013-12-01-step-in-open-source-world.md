@@ -5,8 +5,6 @@ date: 2013-12-11
 tag: Life GitHub
 ---
 
-# 步入开源世界
-
 ![](/media/files/step-in-open-source-world/github.png)
 
 ## 前言
