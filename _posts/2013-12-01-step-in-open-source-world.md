@@ -2,7 +2,9 @@
 layout: post
 title: 步入开源世界
 date: 2013-12-11
-tag: Life GitHub
+tags:
+  - Life
+  - GitHub
 ---
 
 ![](/media/files/step-in-open-source-world/github.png)
