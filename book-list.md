@@ -4,6 +4,7 @@ title: 'Book list'
 date: 2013-11-29
 ---
 
+* [深入浅出Node.js](http://book.douban.com/subject/25768396/)
 * [鲜活的数据](http://book.douban.com/subject/19952397/)
 * [HTML5 Canvas核心技术](http://book.douban.com/subject/24533314/)
 * <strike>[AngularJS](http://book.douban.com/subject/20277919/)</strike>
