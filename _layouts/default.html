@@ -21,7 +21,7 @@
     (function() {
         var hm = document.createElement("script");
         hm.src = "//hm.baidu.com/hm.js?63dce9f46b59dcad8742633b2f650e4f";
-        var s = document.getElementsByTagName("script")[0]; 
+        var s = document.getElementsByTagName("script")[0];
         s.parentNode.insertBefore(hm, s);
     })();
     </script>
@@ -42,10 +42,11 @@
             {{ content }}
         </div>
         <footer>
-            <div>
+            <div style="margin-bottom: 5px;">
                 {% assign first_post = site.posts | last %}
                 &copy; {{ first_post.date | date: "%Y" }} ~ {{ site.time | date: "%Y" }} {{ site.author }} | powered by jekyll | themed by <a href="http://lhzhang.com" title="sext vi" target="_blank">sext vi</a>
             </div>
+            <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
         </footer>
     </div> <!-- main -->
 </body>
