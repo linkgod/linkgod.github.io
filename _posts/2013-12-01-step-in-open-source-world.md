@@ -229,7 +229,7 @@ GitHub上有全世界上各种最顶尖的程序员，有各种顶尖的代码�
 7. 压缩编译好的可供生产环境使用的包
 8. 支持 AMD 和 CMD 模块加载器
 9. 多途径发布，npm、bower、component
-10. 配置好的Gruntfile，方便本地环境搭建测试
+10. 配置好的Gruntfile/Makefile
 
 如何对项目维护?
 
