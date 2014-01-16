@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="/media/css/style.css">
     <link rel="stylesheet" href="/media/css/github.css">
     <link rel="stylesheet" href="/media/css/fontawesome.css">
+    <link rel="stylesheet" href="/media/css/hover-min.css">
     <script type="text/javascript" src="/media/js/jquery-1.7.1.min.js" charset="utf-8"></script>
     <script type="text/javascript" src="/media/js/highlight.pack.js"></script>
     <script type="text/javascript">
@@ -30,11 +31,11 @@
     <div id="main" role="main">
         <header>
             <div id="header">
-                <h1><a title="{{ site.name }}" class="" href="/">{{ site.name }}</a></h1>
+                <h1 class="float-shadow"><a title="{{ site.name }}" class="" href="/">{{ site.name }}</a></h1>
             </div>
             <nav>
                 {% for nav in site.navigations %}
-                <span><a title="{{ nav.title }}" href="{{ nav.href }}"><i class="{{ nav.class }}"></i></a></span>
+                <span class="float"><a title="{{ nav.title }}" href="{{ nav.href }}"><i class="{{ nav.class }}"></i></a></span>
                 {% endfor %}
             </nav>
         </header>
