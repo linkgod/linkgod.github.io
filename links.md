@@ -6,6 +6,7 @@ layout: page
 * <a href="http://ashin.sinaapp.com" target="_blank">阿小信</a>
 * <a href="http://kimleo.lofter.com/" target="_blank">Kim Leo</a>
 * <a href="http://www.jerryl3e.com/" target="_blank">JerryL3e&amp;肉肉's Blog</a>
+* <a href="http://www.joychou.org/" target="_blank">JoyChou's Blog</a>
 * <a href="http://lanu.sinaapp.com" target="_blank">L.N的博客</a>
 * <a href="http://fluyy.net/" target="_blank">Fluyy's Blog</a>
 * <a href="http://blog.mpr0xy.com/" target="_blank">The mpr0xy of coding</a>
