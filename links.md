@@ -10,6 +10,7 @@ layout: page
 * <a href="http://lanu.sinaapp.com" target="_blank">L.N的博客</a>
 * <a href="http://fluyy.net/" target="_blank">Fluyy's Blog</a>
 * <a href="http://blog.mpr0xy.com/" target="_blank">The mpr0xy of coding</a>
+* <a href="http://snailsky.me/" target="_blank">Running_snail's Blog</a>
 * <a href="http://http://happytree.farbox.com/" target="_blank">儿童脑细胞研究所</a>
 * <a href="http://lenny.sinaapp.com/" target="_blank">lenny blog</a>
 * <a href="http://hack4money.org/" target="_blank">hack4money</a>
