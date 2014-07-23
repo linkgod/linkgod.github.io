@@ -4,11 +4,28 @@ title: about
 date: 2013-11-26
 ---
 
-OK Man -> linkgod
+About him
+
+```javascript
+while( !isOkMan(linkgod) ){
+	linkgod.learn();
+}
+
+function isOkMan(){
+	return false;
+}
+```
 
 > Front-end Engineer
 >
 > [Syclover](http://weibo.com/sycloversyc) Member
+>
+> Working in [Taobao-Trip](http://trip.taobao.com)
+>
+> Living in Beijing
+>
+> 一个人的能力不会因为他从小学校到大公司就突然变好，成长路漫，继续修炼。
+
 
 Email
 
@@ -22,4 +39,5 @@ Activities In
 > [GitHub](https://github.com/linkgod)
 
 Old Blog
+
 > [LinkGod \[S.Y.C\]](http://linkgod.diandian.com/)
