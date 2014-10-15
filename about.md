@@ -27,11 +27,6 @@ function isOkMan(){
 >
 > 一个人的能力不会因为他从小学校到大公司就突然变好，成长路漫，继续修炼。
 
-
-Email
-
-> linkgod [#] qq.com
-
 Activities In
 
 > [Zhihu](http://www.zhihu.com/people/linkgod)
