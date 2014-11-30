@@ -4,6 +4,7 @@ layout: page
 ---
 
 * <a href="http://ashin.sinaapp.com" target="_blank">阿小信</a>
+* <a href="http://sikaco.sinaapp.com/" target="_blank">C'est la vie</a>
 * <a href="http://kimleo.lofter.com/" target="_blank">Kim Leo</a>
 * <a href="http://fluyy.net/" target="_blank">Fluyy's Blog</a>
 * <a href="http://blog.mpr0xy.com/" target="_blank">The mpr0xy of coding</a>
