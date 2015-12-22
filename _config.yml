@@ -17,9 +17,9 @@ navigations:
   - title: About
     class: fa fa-user
     href: /about.html
-  - title: Book list
-    class: fa fa-book
-    href: /book-list.html
+  # - title: Book list
+  #   class: fa fa-book
+  #   href: /book-list.html
   - title: Links
     class: fa fa-link
     href: /links.html
