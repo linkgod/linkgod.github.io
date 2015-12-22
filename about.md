@@ -2,36 +2,24 @@
 layout: post
 title: about
 initial-date: 2013-11-26
-date: 2014-07-23
+date: 2015-12-22
 ---
 
 About him
-
-```javascript
-while( !isOkMan(linkgod) ){
-	linkgod.learn();
-}
-
-function isOkMan(){
-	return false;
-}
-```
 
 > Front-end Engineer
 >
 > [Syclover](http://weibo.com/sycloversyc) Member
 >
-> Working in [Taobao-Trip](http://trip.taobao.com)
+> Working in [AliTrip](https://www.alitrip.com)
 >
 > Living in Beijing
 >
-> 一个人的能力不会因为他从小学校到大公司就突然变好，成长路漫，继续修炼。
+> 永不磨灭的好奇心
 
 Activities In
 
 > [Zhihu](http://www.zhihu.com/people/linkgod)
-> [Weibo](http://weibo.com/linkgod)
-> [V2EX](http://v2ex.com/member/linkgod)
 > [GitHub](https://github.com/linkgod)
 
 Old Blog
