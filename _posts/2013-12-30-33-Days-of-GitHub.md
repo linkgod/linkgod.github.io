@@ -8,7 +8,7 @@ tags:
 
 ---
 
-![](http://www.linkgod.net/media/files/33-Days-of-GitHub/33-Days-of-GitHub.png)
+![](http://linkgod.github.io/media/files/33-Days-of-GitHub/33-Days-of-GitHub.png)
 
 ## 动机
 

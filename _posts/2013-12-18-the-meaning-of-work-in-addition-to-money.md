@@ -5,7 +5,7 @@ tags:
   - Life
 ---
 
-![](http://www.linkgod.net/media/files/the-meaning-of-work-in-addition-to-money/money.jpg)
+![](http://linkgod.github.io/media/files/the-meaning-of-work-in-addition-to-money/money.jpg)
 
 今天看的一个TED：[Dan Ariely: What makes us feel good about our work?](http://www.ted.com/talks/dan_ariely_what_makes_us_feel_good_about_our_work.html)
 

@@ -4,7 +4,7 @@ title: NodeParty杭州站
 tags: Life
 ---
 
-![](http://www.linkgod.net/media/files/hangzhou-nodeparty-note/NodeParty.jpg)
+![](http://linkgod.github.io/media/files/hangzhou-nodeparty-note/NodeParty.jpg)
 
 上周就去参加了NodeParty杭州站的活动了，现在才写笔记，希望不会太晚。
 

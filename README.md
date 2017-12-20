@@ -1,4 +1,4 @@
 linkgod.github.io
 =================
 
-linkgod write notes [here](http://www.linkgod.net)
+linkgod write notes [here](http://linkgod.github.io)
